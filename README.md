@@ -50,7 +50,7 @@ To run this notebook on your local machine:
 Ensure you have the following installed:
 - Python 3.7+
 - Jupyter Notebook
-- Required Python libraries (install via `pip install -r requirements.txt`)
+- Required Python libraries
 
 ## Dataset
 
